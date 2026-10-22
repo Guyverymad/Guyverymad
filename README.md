@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=180&section=header"/>
 </p>
 
-<h1 align="center">! อาจจะยัง code 👋, </h1>
+<h1 align="center">! codekrub 👋, </h1>
  
   
 
